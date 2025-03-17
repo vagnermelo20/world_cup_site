@@ -2,6 +2,7 @@ import { useState, useEffect } from "react";
 import groupsData from "../data/2022/groups2022.json"; // Importa os dados dos grupos
 import matchesData from "../data/2022/group_matches2022.json"; // Importa os resultados dos jogos
 import GroupMatches from "./GroupMatches"; // Importa o componente dos jogos
+import getCountryFlag from "../utils/getCountryFlag"; // Importa a função para buscar bandeiras
 
 const GroupTable2022 = () => {
   const [groups, setGroups] = useState([]);
@@ -49,7 +50,16 @@ const GroupTable2022 = () => {
                 return (
                   <tr key={idx} className={`text-center ${rowColor}`}>
                     <td className="border p-1">{idx + 1}</td>
-                    <td className="border p-1 font-bold">{team.abbreviation}</td>
+                    <td className="border p-1 font-bold">
+                      <div className="flex items-center justify-center gap-1">
+                        <img 
+                          src={getCountryFlag(team.country)} 
+                          alt={`${team.country} flag`} 
+                          className="w-4 h-3 object-cover"
+                        />
+                        <span>{team.abbreviation}</span>
+                      </div>
+                    </td>
                     <td className="border p-1">{team.points}</td>
                     <td className="border p-1">{team.played}</td>
                     <td className="border p-1">{team.won}</td>
@@ -65,8 +75,11 @@ const GroupTable2022 = () => {
             </tbody>
           </table>
 
-          {/* Jogos do Grupo */}
-          {matchesData[group.name] && <GroupMatches matches={matchesData[group.name]} />}
+          {/* Lista de Jogos do Grupo */}
+          <div className="mt-4">
+            {/* Passando os jogos do grupo específico, se existirem */}
+            {matchesData[group.name] && <GroupMatches matches={matchesData[group.name]} />}
+          </div>
         </div>
       ))}
     </div>
