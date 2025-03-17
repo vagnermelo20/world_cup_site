@@ -1,0 +1,1483 @@
+{
+    "goals": [
+      {
+        "name": "Kylian Mbappé",
+        "goals": 8,
+        "country": "France",
+        "flag": "🇫🇷"
+      },
+      {
+        "name": "Lionel Messi",
+        "goals": 7,
+        "country": "Argentina",
+        "flag": "🇦🇷"
+      },
+      {
+        "name": "Julián Álvarez",
+        "goals": 4,
+        "country": "Argentina",
+        "flag": "🇦🇷"
+      },
+      {
+        "name": "Olivier Giroud",
+        "goals": 4,
+        "country": "France",
+        "flag": "🇫🇷"
+      },
+      {
+        "name": "Bukayo Saka",
+        "goals": 3,
+        "country": "England",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
+      {
+        "name": "Cody Gakpo",
+        "goals": 3,
+        "country": "Netherlands",
+        "flag": "🇳🇱"
+      },
+      {
+        "name": "Enner Valencia",
+        "goals": 3,
+        "country": "Ecuador",
+        "flag": "🇪🇨"
+      },
+      {
+        "name": "Gonçalo Ramos",
+        "goals": 3,
+        "country": "Portugal",
+        "flag": "🇵🇹"
+      },
+      {
+        "name": "Marcus Rashford",
+        "goals": 3,
+        "country": "England",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
+      {
+        "name": "Richarlison",
+        "goals": 3,
+        "country": "Brazil",
+        "flag": "🇧🇷"
+      },
+      {
+        "name": "Álvaro Morata",
+        "goals": 3,
+        "country": "Spain",
+        "flag": "🇪🇸"
+      },
+      {
+        "name": "Aleksandar Mitrović",
+        "goals": 2,
+        "country": "Serbia",
+        "flag": "🇷🇸"
+      },
+      {
+        "name": "Andrej Kramarić",
+        "goals": 2,
+        "country": "Croatia",
+        "flag": "🇭🇷"
+      },
+      {
+        "name": "Breel Embolo",
+        "goals": 2,
+        "country": "Switzerland",
+        "flag": "🇨🇭"
+      },
+      {
+        "name": "Bruno Fernandes",
+        "goals": 2,
+        "country": "Portugal",
+        "flag": "🇵🇹"
+      },
+      {
+        "name": "Cho Gue-sung",
+        "goals": 2,
+        "country": "South Korea",
+        "flag": "🇰🇷"
+      },
+      {
+        "name": "Ferran Torres",
+        "goals": 2,
+        "country": "Spain",
+        "flag": "🇪🇸"
+      },
+      {
+        "name": "Giorgian de Arrascaeta",
+        "goals": 2,
+        "country": "Uruguay",
+        "flag": "🇺🇾"
+      },
+      {
+        "name": "Harry Kane",
+        "goals": 2,
+        "country": "England",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
+      {
+        "name": "Kai Havertz",
+        "goals": 2,
+        "country": "Germany",
+        "flag": "🇩🇪"
+      },
+      {
+        "name": "Mehdi Taremi",
+        "goals": 2,
+        "country": "Iran",
+        "flag": "🇮🇷"
+      },
+      {
+        "name": "Mohammed Kudus",
+        "goals": 2,
+        "country": "Ghana",
+        "flag": "🇬🇭"
+      },
+      {
+        "name": "Neymar",
+        "goals": 2,
+        "country": "Brazil",
+        "flag": "🇧🇷"
+      },
+      {
+        "name": "Niclas Füllkrug",
+        "goals": 2,
+        "country": "Germany",
+        "flag": "🇩🇪"
+      },
+      {
+        "name": "Rafael Leão",
+        "goals": 2,
+        "country": "Portugal",
+        "flag": "🇵🇹"
+      },
+      {
+        "name": "Ritsu Dōan",
+        "goals": 2,
+        "country": "Japan",
+        "flag": "🇯🇵"
+      },
+      {
+        "name": "Robert Lewandowski",
+        "goals": 2,
+        "country": "Poland",
+        "flag": "🇵🇱"
+      },
+      {
+        "name": "Salem Al-Dawsari",
+        "goals": 2,
+        "country": "Saudi Arabia",
+        "flag": "🇸🇦"
+      },
+      {
+        "name": "Vincent Aboubakar",
+        "goals": 2,
+        "country": "Cameroon",
+        "flag": "🇨🇲"
+      },
+      {
+        "name": "Wout Weghorst",
+        "goals": 2,
+        "country": "Netherlands",
+        "flag": "🇳🇱"
+      },
+      {
+        "name": "Youssef En-Nesyri",
+        "goals": 2,
+        "country": "Morocco",
+        "flag": "🇲🇦"
+      },
+      {
+        "name": "Achraf Dari",
+        "goals": 1,
+        "country": "Morocco",
+        "flag": "🇲🇦"
+      },
+      {
+        "name": "Adrien Rabiot",
+        "goals": 1,
+        "country": "France",
+        "flag": "🇫🇷"
+      },
+      {
+        "name": "Alexis Mac Allister",
+        "goals": 1,
+        "country": "Argentina",
+        "flag": "🇦🇷"
+      },
+      {
+        "name": "Alphonso Davies",
+        "goals": 1,
+        "country": "Canada",
+        "flag": "🇨🇦"
+      },
+      {
+        "name": "Andreas Christensen",
+        "goals": 1,
+        "country": "Denmark",
+        "flag": "🇩🇰"
+      },
+      {
+        "name": "André Ayew",
+        "goals": 1,
+        "country": "Ghana",
+        "flag": "🇬🇭"
+      },
+      {
+        "name": "Ángel Di María",
+        "goals": 1,
+        "country": "Argentina",
+        "flag": "🇦🇷"
+      },
+      {
+        "name": "Ao Tanaka",
+        "goals": 1,
+        "country": "Japan",
+        "flag": "🇯🇵"
+      },
+      {
+        "name": "Aurélien Tchouaméni",
+        "goals": 1,
+        "country": "France",
+        "flag": "🇫🇷"
+      },
+      {
+        "name": "Bamba Dieng",
+        "goals": 1,
+        "country": "Senegal",
+        "flag": "🇸🇳"
+      },
+      {
+        "name": "Boulaye Dia",
+        "goals": 1,
+        "country": "Senegal",
+        "flag": "🇸🇳"
+      },
+      {
+        "name": "Bruno Petković",
+        "goals": 1,
+        "country": "Croatia",
+        "flag": "🇭🇷"
+      },
+      {
+          "name": "Carlos Soler",
+          "goals": 1,
+          "country": "Spain",
+          "flag": "sp"
+      },
+      {
+        "name": "Casemiro",
+        "goals": 1,
+        "country": "Brazil",
+        "flag": "🇧🇷"
+      },
+      {
+        "name": "Christian Pulisic",
+        "goals": 1,
+        "country": "United States",
+        "flag": "🇺🇸"
+      },
+      {
+        "name": "Craig Goodwin",
+        "goals": 1,
+        "country": "Australia",
+        "flag": "🇦🇺"
+      },
+      {
+        "name": "Cristiano Ronaldo",
+        "goals": 1,
+        "country": "Portugal",
+        "flag": "🇵🇹"
+      },
+      {
+        "name": "Daizen Maeda",
+        "goals": 1,
+        "country": "Japan",
+        "flag": "🇯🇵"
+      },
+      {
+        "name": "Daley Blind",
+        "goals": 1,
+        "country": "Netherlands",
+        "flag": "🇳🇱"
+      },
+      {
+        "name": "Dani Olmo",
+        "goals": 1,
+        "country": "Spain",
+        "flag": "🇪🇸"
+      },
+      {
+        "name": "Davy Klaassen",
+        "goals": 1,
+        "country": "Netherlands",
+        "flag": "🇳🇱"
+      },
+      {
+        "name": "Denzel Dumfries",
+        "goals": 1,
+        "country": "Netherlands",
+        "flag": "🇳🇱"
+      },
+      {
+        "name": "Dušan Vlahović",
+        "goals": 1,
+        "country": "Serbia",
+        "flag": "🇷🇸"
+      },
+      {
+        "name": "Enzo Fernández",
+        "goals": 1,
+        "country": "Argentina",
+        "flag": "🇦🇷"
+      },
+      {
+        "name": "Eric Maxim Choupo-Moting",
+        "goals": 1,
+        "country": "Cameroon",
+        "flag": "🇨🇲"
+      },
+      {
+        "name": "Famara Diédhiou",
+        "goals": 1,
+        "country": "Senegal",
+        "flag": "🇸🇳"
+      },
+      {
+        "name": "Frenkie de Jong",
+        "goals": 1,
+        "country": "Netherlands",
+        "flag": "🇳🇱"
+      },
+      {
+        "name": "Gareth Bale",
+        "goals": 1,
+        "country": "Wales",
+        "flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿"
+      },
+      {
+        "name": "Gavi",
+        "goals": 1,
+        "country": "Spain",
+        "flag": "🇪🇸"
+      },
+      {
+        "name": "Haji Wright",
+        "goals": 1,
+        "country": "United States",
+        "flag": "🇺🇸"
+      },
+      {
+        "name": "Hakim Ziyech",
+        "goals": 1,
+        "country": "Morocco",
+        "flag": "🇲🇦"
+      },
+      {
+        "name": "Henry Martín",
+        "goals": 1,
+        "country": "Mexico",
+        "flag": "🇲🇽"
+      },
+      {
+        "name": "Hwang Hee-chan",
+        "goals": 1,
+        "country": "South Korea",
+        "flag": "🇰🇷"
+      },
+      {
+        "name": "İlkay Gündoğan",
+        "goals": 1,
+        "country": "Germany",
+        "flag": "🇩🇪"
+      },
+      {
+        "name": "Ismaïla Sarr",
+        "goals": 1,
+        "country": "Senegal",
+        "flag": "🇸🇳"
+      },
+      {
+        "name": "Ivan Perišić",
+        "goals": 1,
+        "country": "Croatia",
+        "flag": "🇭🇷"
+      },
+      {
+        "name": "Jack Grealish",
+        "goals": 1,
+        "country": "England",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
+      {
+        "name": "Jean-Charles Castelletto",
+        "goals": 1,
+        "country": "Cameroon",
+        "flag": "🇨🇲"
+      },
+      {
+        "name": "João Félix",
+        "goals": 1,
+        "country": "Portugal",
+        "flag": "🇵🇹"
+      },
+      {
+        "name": "Jordan Henderson",
+        "goals": 1,
+        "country": "England",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
+      {
+        "name": "Joško Gvardiol",
+        "goals": 1,
+        "country": "Croatia",
+        "flag": "🇭🇷"
+      },
+      {
+        "name": "Jude Bellingham",
+        "goals": 1,
+        "country": "England",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
+      {
+        "name": "Juan Pablo Vargas",
+        "goals": 1,
+        "country": "Costa Rica",
+        "flag": "🇨🇷"
+      },
+      {
+        "name": "Kalidou Koulibaly",
+        "goals": 1,
+        "country": "Senegal",
+        "flag": "🇸🇳"
+      },
+      {
+        "name": "Keysher Fuller",
+        "goals": 1,
+        "country": "Costa Rica",
+        "flag": "🇨🇷"
+      },
+      {
+        "name": "Kim Young-gwon",
+        "goals": 1,
+        "country": "South Korea",
+        "flag": "🇰🇷"
+      },
+      {
+        "name": "Lovro Majer",
+        "goals": 1,
+        "country": "Croatia",
+        "flag": "🇭🇷"
+      },
+      {
+        "name": "Lucas Paquetá",
+        "goals": 1,
+        "country": "Brazil",
+        "flag": "🇧🇷"
+      },
+      {
+        "name": "Luis Chávez",
+        "goals": 1,
+        "country": "Mexico",
+        "flag": "🇲🇽"
+      },
+      {
+        "name": "Manuel Akanji",
+        "goals": 1,
+        "country": "Switzerland",
+        "flag": "🇨🇭"
+      },
+      {
+        "name": "Marco Asensio",
+        "goals": 1,
+        "country": "Spain",
+        "flag": "🇪🇸"
+      },
+      {
+        "name": "Marko Livaja",
+        "goals": 1,
+        "country": "Croatia",
+        "flag": "🇭🇷"
+      },
+      {
+        "name": "Mathew Leckie",
+        "goals": 1,
+        "country": "Australia",
+        "flag": "🇦🇺"
+      },
+      {
+        "name": "Memphis Depay",
+        "goals": 1,
+        "country": "Netherlands",
+        "flag": "🇳🇱"
+      },
+      {
+        "name": "Michy Batshuayi",
+        "goals": 1,
+        "country": "Belgium",
+        "flag": "🇧🇪"
+      },
+      {
+        "name": "Mitchell Duke",
+        "goals": 1,
+        "country": "Australia",
+        "flag": "🇦🇺"
+      },
+      {
+        "name": "Mislav Oršić",
+        "goals": 1,
+        "country": "Croatia",
+        "flag": "🇭🇷"
+      },
+      {
+        "name": "Mohammed Muntari",
+        "goals": 1,
+        "country": "Qatar",
+        "flag": "🇶🇦"
+      },
+      {
+        "name": "Mohammed Salisu",
+        "goals": 1,
+        "country": "Ghana",
+        "flag": "🇬🇭"
+      },
+      {
+        "name": "Moisés Caicedo",
+        "goals": 1,
+        "country": "Ecuador",
+        "flag": "🇪🇨"
+      },
+      {
+        "name": "Nahuel Molina",
+        "goals": 1,
+        "country": "Argentina",
+        "flag": "🇦🇷"
+      },
+      {
+        "name": "Osman Bukari",
+        "goals": 1,
+        "country": "Ghana",
+        "flag": "🇬🇭"
+      },
+      {
+        "name": "Paik Seung-ho",
+        "goals": 1,
+        "country": "South Korea",
+        "flag": "🇰🇷"
+      },
+      {
+        "name": "Pepe",
+        "goals": 1,
+        "country": "Portugal",
+        "flag": "🇵🇹"
+      },
+      {
+        "name": "Phil Foden",
+        "goals": 1,
+        "country": "England",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
+      {
+        "name": "Piotr Zieliński",
+        "goals": 1,
+        "country": "Poland",
+        "flag": "🇵🇱"
+      },
+      {
+        "name": "Raheem Sterling",
+        "goals": 1,
+        "country": "England",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
+      {
+        "name": "Ramin Rezaeian",
+        "goals": 1,
+        "country": "Iran",
+        "flag": "🇮🇷"
+      },
+      {
+        "name": "Randal Kolo Muani",
+        "goals": 1,
+        "country": "France",
+        "flag": "🇫🇷"
+      },
+      {
+        "name": "Raphaël Guerreiro",
+        "goals": 1,
+        "country": "Portugal",
+        "flag": "🇵🇹"
+      },
+      {
+        "name": "Remo Freuler",
+        "goals": 1,
+        "country": "Switzerland",
+        "flag": "🇨🇭"
+      },
+      {
+        "name": "Ricardo Horta",
+        "goals": 1,
+        "country": "Portugal",
+        "flag": "🇵🇹"
+      },
+      {
+        "name": "Romain Saïss",
+        "goals": 1,
+        "country": "Morocco",
+        "flag": "🇲🇦"
+      },
+      {
+        "name": "Rouzbeh Cheshmi",
+        "goals": 1,
+        "country": "Iran",
+        "flag": "🇮🇷"
+      },
+      {
+        "name": "Saleh Al-Shehri",
+        "goals": 1,
+        "country": "Saudi Arabia",
+        "flag": "🇸🇦"
+      },
+      {
+        "name": "Serge Gnabry",
+        "goals": 1,
+        "country": "Germany",
+        "flag": "🇩🇪"
+      },
+      {
+        "name": "Sergej Milinković-Savić",
+        "goals": 1,
+        "country": "Serbia",
+        "flag": "🇷🇸"
+      },
+      {
+        "name": "Strahinja Pavlović",
+        "goals": 1,
+        "country": "Serbia",
+        "flag": "🇷🇸"
+      },
+      {
+        "name": "Takuma Asano",
+        "goals": 1,
+        "country": "Japan",
+        "flag": "🇯🇵"
+      },
+      {
+        "name": "Théo Hernandez",
+        "goals": 1,
+        "country": "France",
+        "flag": "🇫🇷"
+      },
+      {
+        "name": "Timothy Weah",
+        "goals": 1,
+        "country": "United States",
+        "flag": "🇺🇸"
+      },
+      {
+        "name": "Vinícius Júnior",
+        "goals": 1,
+        "country": "Brazil",
+        "flag": "🇧🇷"
+      },
+      {
+        "name": "Wahbi Khazri",
+        "goals": 1,
+        "country": "Tunisia",
+        "flag": "🇹🇳"
+      },
+      {
+        "name": "Xherdan Shaqiri",
+        "goals": 1,
+        "country": "Switzerland",
+        "flag": "🇨🇭"
+      },
+      {
+        "name": "Yeltsin Tejeda",
+        "goals": 1,
+        "country": "Costa Rica",
+        "flag": "🇨🇷"
+      },
+      {
+        "name": "Zakaria Aboukhlal",
+        "goals": 1,
+        "country": "Morocco",
+        "flag": "🇲🇦"
+      }
+    ],
+
+      "assist": [
+      {
+        "name": "Antoine Griezmann",
+        "assists": 3,
+        "country": "France",
+        "flag": "🇫🇷"
+      },
+      {
+        "name": "Bruno Fernandes",
+        "assists": 3,
+        "country": "Portugal",
+        "flag": "🇵🇹"
+      },
+      {
+        "name": "Harry Kane",
+        "assists": 3,
+        "country": "England",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
+      {
+        "name": "Ivan Perišić",
+        "assists": 3,
+        "country": "Croatia",
+        "flag": "🇭🇷"
+      },
+      {
+        "name": "Lionel Messi",
+        "assists": 3,
+        "country": "Argentina",
+        "flag": "🇦🇷"
+      },
+      {
+        "name": "Andrija Živković",
+        "assists": 2,
+        "country": "Serbia",
+        "flag": "🇷🇸"
+      },
+      {
+        "name": "Ángel Di María",
+        "assists": 2,
+        "country": "Argentina",
+        "flag": "🇦🇷"
+      },
+      {
+        "name": "Christian Pulisic",
+        "assists": 2,
+        "country": "USA",
+        "flag": "🇺🇸"
+      },
+      {
+        "name": "Davy Klaassen",
+        "assists": 2,
+        "country": "Netherlands",
+        "flag": "🇳🇱"
+      },
+      {
+        "name": "Denzel Dumfries",
+        "assists": 2,
+        "country": "Netherlands",
+        "flag": "🇳🇱"
+      },
+      {
+        "name": "Diogo Dalot",
+        "assists": 2,
+        "country": "Portugal",
+        "flag": "🇵🇹"
+      },
+      {
+        "name": "Dušan Tadić",
+        "assists": 2,
+        "country": "Serbia",
+        "flag": "🇷🇸"
+      },
+      {
+        "name": "João Félix",
+        "assists": 2,
+        "country": "Portugal",
+        "flag": "🇵🇹"
+      },
+      {
+        "name": "Jordi Alba",
+        "assists": 2,
+        "country": "Spain",
+        "flag": "🇪🇸"
+      },
+      {
+        "name": "Kylian Mbappé",
+        "assists": 2,
+        "country": "France",
+        "flag": "🇫🇷"
+      },
+      {
+        "name": "Luis Suárez",
+        "assists": 2,
+        "country": "Uruguay",
+        "flag": "🇺🇾"
+      },
+      {
+        "name": "Marcus Thuram",
+        "assists": 2,
+        "country": "France",
+        "flag": "🇫🇷"
+      },
+      {
+        "name": "Mislav Oršić",
+        "assists": 2,
+        "country": "Croatia",
+        "flag": "🇭🇷"
+      },
+      {
+        "name": "Ousmane Dembélé",
+        "assists": 2,
+        "country": "France",
+        "flag": "🇫🇷"
+      },
+      {
+        "name": "Phil Foden",
+        "assists": 2,
+        "country": "England",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
+      {
+        "name": "Raphaël Guerreiro",
+        "assists": 2,
+        "country": "Portugal",
+        "flag": "🇵🇹"
+      },
+      {
+        "name": "Theo Hernández",
+        "assists": 2,
+        "country": "France",
+        "flag": "🇫🇷"
+      },
+      {
+        "name": "Vinícius Junior",
+        "assists": 2,
+        "country": "Brazil",
+        "flag": "🇧🇷"
+      },
+      {
+        "name": "Xherdan Shaqiri",
+        "assists": 2,
+        "country": "Switzerland",
+        "flag": "🇨🇭"
+      },
+      {
+        "name": "Abdul Rahman Baba",
+        "assists": 1,
+        "country": "Ghana",
+        "flag": "🇬🇭"
+      },
+      {
+        "name": "Achraf Hakimi",
+        "assists": 1,
+        "country": "Morocco",
+        "flag": "🇲🇦"
+      },
+      {
+        "name": "Adrien Rabiot",
+        "assists": 1,
+        "country": "France",
+        "flag": "🇫🇷"
+      },
+      {
+        "name": "Aïssa Laïdouni",
+        "assists": 1,
+        "country": "Tunisia",
+        "flag": "🇹🇳"
+      },
+      {
+        "name": "Alexis Mac Allister",
+        "assists": 1,
+        "country": "Argentina",
+        "flag": "🇦🇷"
+      },
+      {
+        "name": "Ali Gholizadeh",
+        "assists": 1,
+        "country": "Iran",
+        "flag": "🇮🇷"
+      },
+      {
+        "name": "Álvaro Morata",
+        "assists": 1,
+        "country": "Spain",
+        "flag": "🇪🇸"
+      },
+      {
+        "name": "Ángelo Preciado",
+        "assists": 1,
+        "country": "Ecuador",
+        "flag": "🇪🇨"
+      },
+      {
+        "name": "Azpilicueta",
+        "assists": 1,
+        "country": "Spain",
+        "flag": "🇪🇸"
+      },
+      {
+        "name": "Callum Wilson",
+        "assists": 1,
+        "country": "England",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
+      {
+        "name": "César Montes",
+        "assists": 1,
+        "country": "Mexico",
+        "flag": "🇲🇽"
+      },
+      {
+        "name": "Craig Goodwin",
+        "assists": 1,
+        "country": "Australia",
+        "flag": "🇦🇺"
+      },
+      {
+        "name": "Daley Blind",
+        "assists": 1,
+        "country": "Netherlands",
+        "flag": "🇳🇱"
+      },
+      {
+        "name": "Dani Olmo",
+        "assists": 1,
+        "country": "Spain",
+        "flag": "🇪🇸"
+      },
+      {
+        "name": "David Raum",
+        "assists": 1,
+        "country": "Germany",
+        "flag": "🇩🇪"
+      },
+      {
+        "name": "Dejan Lovren",
+        "assists": 1,
+        "country": "Croatia",
+        "flag": "🇭🇷"
+      },
+      {
+        "name": "Djibril Sow",
+        "assists": 1,
+        "country": "Switzerland",
+        "flag": "🇨🇭"
+      },
+      {
+        "name": "Enzo Fernández",
+        "assists": 1,
+        "country": "Argentina",
+        "flag": "🇦🇷"
+      },
+      {
+        "name": "Félix Torres",
+        "assists": 1,
+        "country": "Ecuador",
+        "flag": "🇪🇨"
+      },
+      {
+        "name": "Firas Al Brikan",
+        "assists": 1,
+        "country": "Saudi Arabia",
+        "flag": "🇸🇦"
+      },
+      {
+        "name": "Frenkie de Jong",
+        "assists": 1,
+        "country": "Netherlands",
+        "flag": "🇳🇱"
+      },
+      {
+        "name": "Gavi",
+        "assists": 1,
+        "country": "Spain",
+        "flag": "🇪🇸"
+      },
+      {
+        "name": "Gonçalo Ramos",
+        "assists": 1,
+        "country": "Portugal",
+        "flag": "🇵🇹"
+      },
+      {
+        "name": "Hakim Ziyech",
+        "assists": 1,
+        "country": "Morocco",
+        "flag": "🇲🇦"
+      },
+      {
+        "name": "Harry Maguire",
+        "assists": 1,
+        "country": "England",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
+      {
+        "name": "Hattan Bahebri",
+        "assists": 1,
+        "country": "Saudi Arabia",
+        "flag": "🇸🇦"
+      },
+      {
+        "name": "Heung-min Son",
+        "assists": 1,
+        "country": "South Korea",
+        "flag": "🇰🇷"
+      },
+      {
+        "name": "Iliman Ndiaye",
+        "assists": 1,
+        "country": "Senegal",
+        "flag": "🇸🇳"
+      },
+      {
+        "name": "Iñaki Williams",
+        "assists": 1,
+        "country": "Ghana",
+        "flag": "🇬🇭"
+      },
+      {
+        "name": "Ismail Jakobs",
+        "assists": 1,
+        "country": "Senegal",
+        "flag": "🇸🇳"
+      },
+      {
+        "name": "Ismail Mohammed",
+        "assists": 1,
+        "country": "Qatar",
+        "flag": "🇶🇦"
+      },
+      {
+        "name": "Jamal Musiala",
+        "assists": 1,
+        "country": "Germany",
+        "flag": "🇩🇪"
+      },
+      {
+        "name": "Jean-Charles Castelletto",
+        "assists": 1,
+        "country": "Cameroon",
+        "flag": "🇨🇲"
+      },
+      {
+        "name": "Jerome Mbekeli",
+        "assists": 1,
+        "country": "Cameroon",
+        "flag": "🇨🇲"
+      },
+      {
+        "name": "Jin-su Kim",
+        "assists": 1,
+        "country": "South Korea",
+        "flag": "🇰🇷"
+      },
+      {
+        "name": "Joachim Andersen",
+        "assists": 1,
+        "country": "Denmark",
+        "flag": "🇩🇰"
+      },
+      {
+        "name": "Jordan Ayew",
+        "assists": 1,
+        "country": "Ghana",
+        "flag": "🇬🇭"
+      },
+      {
+        "name": "Josip Juranović",
+        "assists": 1,
+        "country": "Croatia",
+        "flag": "🇭🇷"
+      },
+      {
+        "name": "Jude Bellingham",
+        "assists": 1,
+        "country": "England",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
+      {
+        "name": "Kalvin Phillips",
+        "assists": 1,
+        "country": "England",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
+      {
+        "name": "Kang-in Lee",
+        "assists": 1,
+        "country": "South Korea",
+        "flag": "🇰🇷"
+      },
+      {
+        "name": "Kaoru Mitoma",
+        "assists": 1,
+        "country": "Japan",
+        "flag": "🇯🇵"
+      },
+      {
+        "name": "Ko Itakura",
+        "assists": 1,
+        "country": "Japan",
+        "flag": "🇯🇵"
+      },
+      {
+        "name": "Leroy Sané",
+        "assists": 1,
+        "country": "Germany",
+        "flag": "🇩🇪"
+      },
+      {
+        "name": "Lucas Paquetá",
+        "assists": 1,
+        "country": "Brazil",
+        "flag": "🇧🇷"
+      },
+      {
+        "name": "Luke Shaw",
+        "assists": 1,
+        "country": "England",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
+      {
+        "name": "Marko Livaja",
+        "assists": 1,
+        "country": "Croatia",
+        "flag": "🇭🇷"
+      },
+      {
+        "name": "Mathew Leckie",
+        "assists": 1,
+        "country": "Australia",
+        "flag": "🇦🇺"
+      },
+      {
+        "name": "Maya Yoshida",
+        "assists": 1,
+        "country": "Japan",
+        "flag": "🇯🇵"
+      },
+      {
+        "name": "Mehdi Taremi",
+        "assists": 1,
+        "country": "Iran",
+        "flag": "🇮🇷"
+      },
+      {
+        "name": "Memphis Depay",
+        "assists": 1,
+        "country": "Netherlands",
+        "flag": "🇳🇱"
+      },
+      {
+        "name": "Mohammed Kudus",
+        "assists": 1,
+        "country": "Ghana",
+        "flag": "🇬🇭"
+      },
+      {
+        "name": "Nahuel Molina",
+        "assists": 1,
+        "country": "Argentina",
+        "flag": "🇦🇷"
+      },
+      {
+        "name": "Niclas Füllkrug",
+        "assists": 1,
+        "country": "Germany",
+        "flag": "🇩🇪"
+      },
+      {
+        "name": "Nicolás Otamendi",
+        "assists": 1,
+        "country": "Argentina",
+        "flag": "🇦🇷"
+      },
+      {
+        "name": "Raheem Sterling",
+        "assists": 1,
+        "country": "England",
+        "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿"
+      },
+      {
+        "name": "Randal Kolo Muani",
+        "assists": 1,
+        "country": "France",
+        "flag": "🇫🇷"
+      },
+      {
+        "name": "Raphinha",
+        "assists": 1,
+        "country": "Brazil",
+        "flag": "🇧🇷"
+      },
+      {
+        "name": "Riley McGree",
+        "assists": 1,
+        "country": "Australia",
+        "flag": "🇦🇺"
+      },
+      {
+        "name": "Robert Lewandowski",
+        "assists": 1,
+        "country": "Poland",
+        "flag": "🇵🇱"
+      },
+      {
+        "name": "Rodrygo",
+        "assists": 1,
+        "country": "Brazil",
+        "flag": "🇧🇷"
+      },
+      {
+        "name": "Ruben Vargas",
+        "assists": 1,
+        "country": "Switzerland",
+        "flag": "🇨🇭"
+      },
+      {
+        "name": "Serge Gnabry",
+        "assists": 1,
+        "country": "Germany",
+        "flag": "🇩🇪"
+      },
+      {
+        "name": "Sergiño Dest",
+        "assists": 1,
+        "country": "USA",
+        "flag": "🇺🇸"
+      },
+      {
+        "name": "Silvan Widmer",
+        "assists": 1,
+        "country": "Switzerland",
+        "flag": "🇨🇭"
+      },
+      {
+        "name": "Steven Berghuis",
+        "assists": 1,
+        "country": "Netherlands",
+        "flag": "🇳🇱"
+      },
+      {
+        "name": "Tajon Buchanan",
+        "assists": 1,
+        "country": "Canada",
+        "flag": "🇨🇦"
+      },
+      {
+        "name": "Teun Koopmeiners",
+        "assists": 1,
+        "country": "Netherlands",
+        "flag": "🇳🇱"
+      },
+      {
+        "name": "Thiago Silva",
+        "assists": 1,
+        "country": "Brazil",
+        "flag": "🇧🇷"
+      },
+      {
+        "name": "Toby Alderweireld",
+        "assists": 1,
+        "country": "Belgium",
+        "flag": "🇧🇪"
+      },
+      {
+        "name": "Vincent Aboubakar",
+        "assists": 1,
+        "country": "Cameroon",
+        "flag": "🇨🇲"
+      },
+      {
+        "name": "Yahia Attiat-Allah",
+        "assists": 1,
+        "country": "Morocco",
+        "flag": "🇲🇦"
+      },
+      {
+        "name": "Yeltsin Tejeda",
+        "assists": 1,
+        "country": "Costa Rica",
+        "flag": "🇨🇷"
+      }
+    ],
+
+      "clean_sheets": [
+        {
+          "name": "Bono",
+          "country": "Morocco",
+          "flag": "🇲🇦",
+          "matches": 6,
+          "clean_sheets": 3
+        },
+        {
+          "name": "Emiliano Martínez",
+          "country": "Argentina",
+          "flag": "🇦🇷",
+          "matches": 7,
+          "clean_sheets": 3
+        },
+        {
+          "name": "Jordan Pickford",
+          "country": "England",
+          "flag": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
+          "matches": 5,
+          "clean_sheets": 3
+        },
+        {
+          "name": "Aymen Dahmen",
+          "country": "Tunisia",
+          "flag": "🇹🇳",
+          "matches": 3,
+          "clean_sheets": 2
+        },
+        {
+          "name": "Alisson",
+          "country": "Brazil",
+          "flag": "🇧🇷",
+          "matches": 4,
+          "clean_sheets": 2
+        },
+        {
+          "name": "Andries Noppert",
+          "country": "Netherlands",
+          "flag": "🇳🇱",
+          "matches": 5,
+          "clean_sheets": 2
+        },
+        {
+          "name": "Mathew Ryan",
+          "country": "Australia",
+          "flag": "🇦🇺",
+          "matches": 4,
+          "clean_sheets": 2
+        },
+        {
+          "name": "Matt Turner",
+          "country": "United States",
+          "flag": "🇺🇸",
+          "matches": 4,
+          "clean_sheets": 2
+        },
+        {
+          "name": "Sergio Rochet",
+          "country": "Uruguay",
+          "flag": "🇺🇾",
+          "matches": 3,
+          "clean_sheets": 2
+        },
+        {
+          "name": "Thibaut Courtois",
+          "country": "Belgium",
+          "flag": "🇧🇪",
+          "matches": 3,
+          "clean_sheets": 2
+        },
+        {
+          "name": "Unai Simón",
+          "country": "Spain",
+          "flag": "🇪🇸",
+          "matches": 4,
+          "clean_sheets": 2
+        },
+        {
+          "name": "Wojciech Szczesny",
+          "country": "Poland",
+          "flag": "🇵🇱",
+          "matches": 4,
+          "clean_sheets": 2
+        },
+        {
+          "name": "Dominik Livaković",
+          "country": "Croatia",
+          "flag": "🇭🇷",
+          "matches": 7,
+          "clean_sheets": 2
+        },
+        {
+          "name": "Alireza Beiranvand",
+          "country": "Iran",
+          "flag": "🇮🇷",
+          "matches": 2,
+          "clean_sheets": 1
+        },
+        {
+          "name": "Devis Epassy",
+          "country": "Cameroon",
+          "flag": "🇨🇲",
+          "matches": 2,
+          "clean_sheets": 1
+        },
+        {
+          "name": "Diogo Costa",
+          "country": "Portugal",
+          "flag": "🇵🇹",
+          "matches": 5,
+          "clean_sheets": 1
+        },
+        {
+          "name": "Guillermo Ochoa",
+          "country": "Mexico",
+          "flag": "🇲🇽",
+          "matches": 3,
+          "clean_sheets": 1
+        },
+        {
+          "name": "Hernán Galíndez",
+          "country": "Ecuador",
+          "flag": "🇪🇨",
+          "matches": 3,
+          "clean_sheets": 1
+        },
+        {
+          "name": "Hugo Lloris",
+          "country": "France",
+          "flag": "🇫🇷",
+          "matches": 6,
+          "clean_sheets": 1
+        },
+        {
+          "name": "Kasper Schmeichel",
+          "country": "Denmark",
+          "flag": "🇩🇰",
+          "matches": 3,
+          "clean_sheets": 1
+        },
+        {
+          "name": "Keylor Navas",
+          "country": "Costa Rica",
+          "flag": "🇨🇷",
+          "matches": 3,
+          "clean_sheets": 1
+        },
+        {
+          "name": "Munir El Kajoui",
+          "country": "Morocco",
+          "flag": "🇲🇦",
+          "matches": 1,
+          "clean_sheets": 1
+        },
+        {
+          "name": "Seung-gyu Kim",
+          "country": "South Korea",
+          "flag": "🇰🇷",
+          "matches": 4,
+          "clean_sheets": 1
+        },
+        {
+          "name": "Seyed Hossein Hosseini",
+          "country": "Iran",
+          "flag": "🇮🇷",
+          "matches": 2,
+          "clean_sheets": 1
+        },
+        {
+          "name": "Wayne Hennessey",
+          "country": "Wales",
+          "flag": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
+          "matches": 2,
+          "clean_sheets": 1
+        },
+        {
+          "name": "Weverton",
+          "country": "Brazil",
+          "flag": "🇧🇷",
+          "matches": 1,
+          "clean_sheets": 1
+        },
+        {
+          "name": "Yann Sommer",
+          "country": "Switzerland",
+          "flag": "🇨🇭",
+          "matches": 3,
+          "clean_sheets": 1
+        }
+      ]
+    }

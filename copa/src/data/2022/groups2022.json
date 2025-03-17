@@ -1,0 +1,78 @@
+{
+  "groups": [
+    {
+      "name": "Group A",
+      "teams": [
+        { "country": "Netherlands", "abbreviation": "NED", "points": 7, "played": 3, "won": 2, "drawn": 1, "lost": 0, "goals_for": 5, "goals_against": 1, "goal_difference": 4 },
+        { "country": "Senegal", "abbreviation": "SEN", "points": 6, "played": 3, "won": 2, "drawn": 0, "lost": 1, "goals_for": 5, "goals_against": 4, "goal_difference": 1 },
+        { "country": "Ecuador", "abbreviation": "ECU", "points": 4, "played": 3, "won": 1, "drawn": 1, "lost": 1, "goals_for": 4, "goals_against": 3, "goal_difference": 1 },
+        { "country": "Qatar", "abbreviation": "QAT", "points": 0, "played": 3, "won": 0, "drawn": 0, "lost": 3, "goals_for": 1, "goals_against": 7, "goal_difference": -6 }
+      ]
+    },
+    {
+      "name": "Group B",
+      "teams": [
+        { "country": "England", "abbreviation": "ENG", "points": 7, "played": 3, "won": 2, "drawn": 1, "lost": 0, "goals_for": 9, "goals_against": 2, "goal_difference": 7 },
+        { "country": "USA", "abbreviation": "USA", "points": 5, "played": 3, "won": 1, "drawn": 2, "lost": 0, "goals_for": 2, "goals_against": 1, "goal_difference": 1 },
+        { "country": "Iran", "abbreviation": "IRN", "points": 3, "played": 3, "won": 1, "drawn": 0, "lost": 2, "goals_for": 4, "goals_against": 7, "goal_difference": -3 },
+        { "country": "Wales", "abbreviation": "WAL", "points": 1, "played": 3, "won": 0, "drawn": 1, "lost": 2, "goals_for": 1, "goals_against": 6, "goal_difference": -5 }
+      ]
+    },
+    {
+      "name": "Group C",
+      "teams": [
+        { "country": "Argentina", "abbreviation": "ARG", "points": 6, "played": 3, "won": 2, "drawn": 0, "lost": 1, "goals_for": 5, "goals_against": 2, "goal_difference": 3 },
+        { "country": "Poland", "abbreviation": "POL", "points": 4, "played": 3, "won": 1, "drawn": 1, "lost": 1, "goals_for": 2, "goals_against": 2, "goal_difference": 0 },
+        { "country": "Mexico", "abbreviation": "MEX", "points": 4, "played": 3, "won": 1, "drawn": 1, "lost": 1, "goals_for": 2, "goals_against": 3, "goal_difference": -1 },
+        { "country": "Saudi Arabia", "abbreviation": "KSA", "points": 3, "played": 3, "won": 1, "drawn": 0, "lost": 2, "goals_for": 3, "goals_against": 5, "goal_difference": -2 }
+      ]
+    },
+    {
+      "name": "Group D",
+      "teams": [
+        { "country": "France", "abbreviation": "FRA", "points": 6, "played": 3, "won": 2, "drawn": 0, "lost": 1, "goals_for": 6, "goals_against": 3, "goal_difference": 3 },
+        { "country": "Australia", "abbreviation": "AUS", "points": 6, "played": 3, "won": 2, "drawn": 0, "lost": 1, "goals_for": 3, "goals_against": 4, "goal_difference": -1 },
+        { "country": "Tunisia", "abbreviation": "TUN", "points": 4, "played": 3, "won": 1, "drawn": 1, "lost": 1, "goals_for": 1, "goals_against": 1, "goal_difference": 0 },
+        { "country": "Denmark", "abbreviation": "DEN", "points": 1, "played": 3, "won": 0, "drawn": 1, "lost": 2, "goals_for": 1, "goals_against": 3, "goal_difference": -2 }
+      ]
+    },
+      {
+        "name": "Group E",
+        "teams": [
+          { "country": "Japan", "abbreviation": "JPN", "points": 6, "played": 3, "won": 2, "drawn": 0, "lost": 1, "goals_for": 4, "goals_against": 3, "goal_difference": 1 },
+          { "country": "Spain", "abbreviation": "ESP", "points": 4, "played": 3, "won": 1, "drawn": 1, "lost": 1, "goals_for": 9, "goals_against": 3, "goal_difference": 6 },
+          { "country": "Germany", "abbreviation": "GER", "points": 4, "played": 3, "won": 1, "drawn": 1, "lost": 1, "goals_for": 6, "goals_against": 5, "goal_difference": 1 },
+          { "country": "Costa Rica", "abbreviation": "CRC", "points": 3, "played": 3, "won": 1, "drawn": 0, "lost": 2, "goals_for": 3, "goals_against": 11, "goal_difference": -8 }
+        ]
+      },
+      {
+        "name": "Group F",
+        "teams": [
+          { "country": "Morocco", "abbreviation": "MAR", "points": 7, "played": 3, "won": 2, "drawn": 1, "lost": 0, "goals_for": 4, "goals_against": 1, "goal_difference": 3 },
+          { "country": "Croatia", "abbreviation": "CRO", "points": 5, "played": 3, "won": 1, "drawn": 2, "lost": 0, "goals_for": 4, "goals_against": 1, "goal_difference": 3 },
+          { "country": "Belgium", "abbreviation": "BEL", "points": 4, "played": 3, "won": 1, "drawn": 1, "lost": 1, "goals_for": 1, "goals_against": 2, "goal_difference": -1 },
+          { "country": "Canada", "abbreviation": "CAN", "points": 0, "played": 3, "won": 0, "drawn": 0, "lost": 3, "goals_for": 2, "goals_against": 7, "goal_difference": -5 }
+        ]
+      },
+      {
+        "name": "Group G",
+        "teams": [
+          { "country": "Brazil", "abbreviation": "BRA", "points": 6, "played": 3, "won": 2, "drawn": 0, "lost": 1, "goals_for": 3, "goals_against": 1, "goal_difference": 2 },
+          { "country": "Switzerland", "abbreviation": "SUI", "points": 6, "played": 3, "won": 2, "drawn": 0, "lost": 1, "goals_for": 4, "goals_against": 3, "goal_difference": 1 },
+          { "country": "Cameroon", "abbreviation": "CMR", "points": 4, "played": 3, "won": 1, "drawn": 1, "lost": 1, "goals_for": 4, "goals_against": 4, "goal_difference": 0 },
+          { "country": "Serbia", "abbreviation": "SRB", "points": 1, "played": 3, "won": 0, "drawn": 1, "lost": 2, "goals_for": 5, "goals_against": 8, "goal_difference": -3 }
+        ]
+      },
+      {
+        "name": "Group H",
+        "teams": [
+          { "country": "Portugal", "abbreviation": "POR", "points": 6, "played": 3, "won": 2, "drawn": 0, "lost": 1, "goals_for": 6, "goals_against": 4, "goal_difference": 2 },
+          { "country": "South Korea", "abbreviation": "KOR", "points": 4, "played": 3, "won": 1, "drawn": 1, "lost": 1, "goals_for": 4, "goals_against": 4, "goal_difference": 0 },
+          { "country": "Uruguay", "abbreviation": "URU", "points": 4, "played": 3, "won": 1, "drawn": 1, "lost": 1, "goals_for": 2, "goals_against": 2, "goal_difference": 0 },
+          { "country": "Ghana", "abbreviation": "GHA", "points": 3, "played": 3, "won": 1, "drawn": 0, "lost": 2, "goals_for": 5, "goals_against": 7, "goal_difference": -2 }
+        ]
+      }
+    ]
+  }
+  
+  

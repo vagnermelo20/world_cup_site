@@ -1,0 +1,963 @@
+{
+    "Group A": [
+      {
+        "date": "20 de novembro 2022",
+        "time": "19:00",
+        "home_team": "Qatar",
+        "home_abbreviation": "QAT",
+        "home_flag": "🇶🇦",
+        "home_score": 0,
+        "away_score": 2,
+        "away_team": "Ecuador",
+        "away_abbreviation": "ECU",
+        "away_flag": "🇪🇨",
+        "stadium": "Al Bayt Stadium, Al Khor",
+        "attendance": "67,372",
+        "referee": "Daniele Orsato (Italy)",
+        "goals": [
+          { "player": "Valencia", "minute": "16'", "type": "penalty", "team": "Ecuador" },
+          { "player": "Valencia", "minute": "31'", "team": "Ecuador" }
+        ]
+      },
+      {
+        "date": "21 de novembro 2022",
+        "time": "19:00",
+        "home_team": "Senegal",
+        "home_abbreviation": "SEN",
+        "home_flag": "🇸🇳",
+        "home_score": 0,
+        "away_score": 2,
+        "away_team": "Netherlands",
+        "away_abbreviation": "NED",
+        "away_flag": "🇳🇱",
+        "stadium": "Al Thumama Stadium, Doha",
+        "attendance": "41,721",
+        "referee": "Wilton Sampaio (Brazil)",
+        "goals": [
+          { "player": "Gakpo", "minute": "84'", "team": "Netherlands" },
+          { "player": "Klaassen", "minute": "90+9'", "team": "Netherlands" }
+        ]
+      },
+      {
+        "date": "25 de novembro 2022",
+        "time": "16:00",
+        "home_team": "Qatar",
+        "home_abbreviation": "QAT",
+        "home_flag": "🇶🇦",
+        "home_score": 1,
+        "away_score": 3,
+        "away_team": "Senegal",
+        "away_abbreviation": "SEN",
+        "away_flag": "🇸🇳",
+        "stadium": "Al Thumama Stadium, Doha",
+        "attendance": "41,797",
+        "referee": "Antonio Mateu Lahoz (Spain)",
+        "goals": [
+          { "player": "Muntari", "minute": "78'", "team": "Qatar" },
+          { "player": "Dia", "minute": "41'", "team": "Senegal" },
+          { "player": "Diédhiou", "minute": "48'", "team": "Senegal" },
+          { "player": "B. Dieng", "minute": "84'", "team": "Senegal" }
+        ]
+      },
+      {
+        "date": "25 de novembro 2022",
+        "time": "19:00",
+        "home_team": "Netherlands",
+        "home_abbreviation": "NED",
+        "home_flag": "🇳🇱",
+        "home_score": 1,
+        "away_score": 1,
+        "away_team": "Ecuador",
+        "away_abbreviation": "ECU",
+        "away_flag": "🇪🇨",
+        "stadium": "Khalifa International Stadium, Al Rayyan",
+        "attendance": "44,833",
+        "referee": "Mustapha Ghorbal (Algeria)",
+        "goals": [
+          { "player": "Gakpo", "minute": "6'", "team": "Netherlands" },
+          { "player": "Valencia", "minute": "49'", "team": "Ecuador" }
+        ]
+      },
+      {
+        "date": "29 de novembro 2022",
+        "time": "18:00",
+        "home_team": "Ecuador",
+        "home_abbreviation": "ECU",
+        "home_flag": "🇪🇨",
+        "home_score": 1,
+        "away_score": 2,
+        "away_team": "Senegal",
+        "away_abbreviation": "SEN",
+        "away_flag": "🇸🇳",
+        "stadium": "Khalifa International Stadium, Al Rayyan",
+        "attendance": "44,569",
+        "referee": "Clément Turpin (France)",
+        "goals": [
+          { "player": "Caicedo", "minute": "67'", "team": "Ecuador" },
+          { "player": "I. Sarr", "minute": "44'", "type": "penalty", "team": "Senegal" },
+          { "player": "Koulibaly", "minute": "70'", "team": "Senegal" }
+        ]
+      },
+      {
+        "date": "29 de novembro 2022",
+        "time": "18:00",
+        "home_team": "Netherlands",
+        "home_abbreviation": "NED",
+        "home_flag": "🇳🇱",
+        "home_score": 2,
+        "away_score": 0,
+        "away_team": "Qatar",
+        "away_abbreviation": "QAT",
+        "away_flag": "🇶🇦",
+        "stadium": "Al Bayt Stadium, Al Khor",
+        "attendance": "66,784",
+        "referee": "Bakary Gassama (Gambia)",
+        "goals": [
+          { "player": "Gakpo", "minute": "26'", "team": "Netherlands" },
+          { "player": "F. de Jong", "minute": "49'", "team": "Netherlands" }
+        ]
+      }
+    ],
+  
+
+
+  
+    "Group B": [
+      {
+        "date": "21 de novembro 2022",
+        "time": "16:00",
+        "home_team": "England",
+        "home_abbreviation": "ENG",
+        "home_flag": "🇬🇧",
+        "home_score": 6,
+        "away_score": 2,
+        "away_team": "Iran",
+        "away_abbreviation": "IRN",
+        "away_flag": "🇮🇷",
+        "stadium": "Khalifa International Stadium, Al Rayyan",
+        "attendance": "45,334",
+        "referee": "Raphael Claus (Brazil)",
+        "goals": [
+          { "player": "Bellingham", "minute": "35'", "team": "England" },
+          { "player": "Saka", "minute": "43'", "team": "England" },
+          { "player": "Sterling", "minute": "45+1'", "team": "England" },
+          { "player": "Saka", "minute": "62'", "team": "England" },
+          { "player": "Taremi", "minute": "65'", "team": "Iran" },
+          { "player": "Rashford", "minute": "71'", "team": "England" },
+          { "player": "Grealish", "minute": "90'", "team": "England" },
+          { "player": "Taremi", "minute": "90+13'", "type": "penalty", "team": "Iran" }
+        ]
+      },
+      {
+        "date": "21 de novembro 2022",
+        "time": "22:00",
+        "home_team": "USA",
+        "home_abbreviation": "USA",
+        "home_flag": "🇺🇸",
+        "home_score": 1,
+        "away_score": 1,
+        "away_team": "Wales",
+        "away_abbreviation": "WAL",
+        "away_flag": "🏴",
+        "stadium": "Ahmad bin Ali Stadium, Al Rayyan",
+        "attendance": "43,418",
+        "referee": "Abdulrahman Al Jassim (Qatar)",
+        "goals": [
+          { "player": "Weah", "minute": "36'", "team": "USA" },
+          { "player": "Bale", "minute": "82'", "type": "penalty", "team": "Wales" }
+        ]
+      },
+      {
+        "date": "25 de novembro 2022",
+        "time": "13:00",
+        "home_team": "Wales",
+        "home_abbreviation": "WAL",
+        "home_flag": "🏴",
+        "home_score": 0,
+        "away_score": 2,
+        "away_team": "Iran",
+        "away_abbreviation": "IRN",
+        "away_flag": "🇮🇷",
+        "stadium": "Ahmad bin Ali Stadium, Al Rayyan",
+        "attendance": "40,875",
+        "referee": "Mario Escobar (Guatemala)",
+        "goals": [
+          { "player": "Cheshmi", "minute": "90+8'", "team": "Iran" },
+          { "player": "Rezaeian", "minute": "90+11'", "team": "Iran" }
+        ]
+      },
+      {
+        "date": "25 de novembro 2022",
+        "time": "22:00",
+        "home_team": "England",
+        "home_abbreviation": "ENG",
+        "home_flag": "🇬🇧",
+        "home_score": 0,
+        "away_score": 0,
+        "away_team": "USA",
+        "away_abbreviation": "USA",
+        "away_flag": "🇺🇸",
+        "stadium": "Al Bayt Stadium, Al Khor",
+        "attendance": "68,463",
+        "referee": "Jesús Valenzuela (Venezuela)",
+        "goals": []
+      },
+      {
+        "date": "29 de novembro 2022",
+        "time": "22:00",
+        "home_team": "Iran",
+        "home_abbreviation": "IRN",
+        "home_flag": "🇮🇷",
+        "home_score": 0,
+        "away_score": 1,
+        "away_team": "USA",
+        "away_abbreviation": "USA",
+        "away_flag": "🇺🇸",
+        "stadium": "Al Thumama Stadium, Doha",
+        "attendance": "42,127",
+        "referee": "Mateu Lahoz (Spain)",
+        "goals": [
+          { "player": "Pulisic", "minute": "38'", "team": "USA" }
+        ]
+      },
+      {
+        "date": "29 de novembro 2022",
+        "time": "22:00",
+        "home_team": "Wales",
+        "home_abbreviation": "WAL",
+        "home_flag": "🏴",
+        "home_score": 0,
+        "away_score": 3,
+        "away_team": "England",
+        "away_abbreviation": "ENG",
+        "away_flag": "🇬🇧",
+        "stadium": "Ahmad bin Ali Stadium, Al Rayyan",
+        "attendance": "44,297",
+        "referee": "Slavko Vincic (Slovenia)",
+        "goals": [
+          { "player": "Rashford", "minute": "50'", "team": "England" },
+          { "player": "Foden", "minute": "51'", "team": "England" },
+          { "player": "Rashford", "minute": "68'", "team": "England" }
+        ]
+      }
+    ],
+
+
+
+    "Group C": [
+    {
+      "date": "22 de novembro 2022",
+      "time": "13:00",
+      "home_team": "Argentina",
+      "home_abbreviation": "ARG",
+      "home_flag": "🇦🇷",
+      "home_score": 1,
+      "away_score": 2,
+      "away_team": "Saudi Arabia",
+      "away_abbreviation": "KSA",
+      "away_flag": "🇸🇦",
+      "stadium": "Lusail Stadium, Lusail",
+      "attendance": "88,012",
+      "referee": "Slavko Vinčić (Slovenia)",
+      "goals": [
+        { "player": "Messi", "minute": "10'", "type": "penalty", "team": "Argentina" },
+        { "player": "Al-Shehri", "minute": "48'", "team": "Saudi Arabia" },
+        { "player": "Al-Dawsari", "minute": "53'", "team": "Saudi Arabia" }
+      ]
+    },
+    {
+      "date": "22 de novembro 2022",
+      "time": "19:00",
+      "home_team": "Mexico",
+      "home_abbreviation": "MEX",
+      "home_flag": "🇲🇽",
+      "home_score": 0,
+      "away_score": 0,
+      "away_team": "Poland",
+      "away_abbreviation": "POL",
+      "away_flag": "🇵🇱",
+      "stadium": "Stadium 974, Doha",
+      "attendance": "39,369",
+      "referee": "Chris Beath (Australia)",
+      "goals": []
+    },
+    {
+      "date": "26 de novembro 2022",
+      "time": "16:00",
+      "home_team": "Poland",
+      "home_abbreviation": "POL",
+      "home_flag": "🇵🇱",
+      "home_score": 2,
+      "away_score": 0,
+      "away_team": "Saudi Arabia",
+      "away_abbreviation": "KSA",
+      "away_flag": "🇸🇦",
+      "stadium": "Education City Stadium, Al Rayyan",
+      "attendance": "44,259",
+      "referee": "Wilton Sampaio (Brazil)",
+      "goals": [
+        { "player": "Zieliński", "minute": "39'", "team": "Poland" },
+        { "player": "Lewandowski", "minute": "82'", "team": "Poland" }
+      ]
+    },
+    {
+      "date": "26 de novembro 2022",
+      "time": "22:00",
+      "home_team": "Argentina",
+      "home_abbreviation": "ARG",
+      "home_flag": "🇦🇷",
+      "home_score": 2,
+      "away_score": 0,
+      "away_team": "Mexico",
+      "away_abbreviation": "MEX",
+      "away_flag": "🇲🇽",
+      "stadium": "Lusail Stadium, Lusail",
+      "attendance": "88,966",
+      "referee": "Daniele Orsato (Italy)",
+      "goals": [
+        { "player": "Messi", "minute": "64'", "team": "Argentina" },
+        { "player": "Fernández", "minute": "87'", "team": "Argentina" }
+      ]
+    },
+    {
+      "date": "30 de novembro 2022",
+      "time": "22:00",
+      "home_team": "Poland",
+      "home_abbreviation": "POL",
+      "home_flag": "🇵🇱",
+      "home_score": 0,
+      "away_score": 2,
+      "away_team": "Argentina",
+      "away_abbreviation": "ARG",
+      "away_flag": "🇦🇷",
+      "stadium": "Stadium 974, Doha",
+      "attendance": "44,089",
+      "referee": "Danny Makkelie (Netherlands)",
+      "goals": [
+        { "player": "Mac Allister", "minute": "46'", "team": "Argentina" },
+        { "player": "Álvarez", "minute": "67'", "team": "Argentina" }
+      ]
+    },
+    {
+      "date": "30 de novembro 2022",
+      "time": "22:00",
+      "home_team": "Saudi Arabia",
+      "home_abbreviation": "KSA",
+      "home_flag": "🇸🇦",
+      "home_score": 1,
+      "away_score": 2,
+      "away_team": "Mexico",
+      "away_abbreviation": "MEX",
+      "away_flag": "🇲🇽",
+      "stadium": "Lusail Stadium, Lusail",
+      "attendance": "84,985",
+      "referee": "Michael Oliver (England)",
+      "goals": [
+        { "player": "S. Al-Dawsari", "minute": "90+5'", "team": "Saudi Arabia" },
+        { "player": "Martín", "minute": "47'", "team": "Mexico" },
+        { "player": "Chávez", "minute": "52'", "team": "Mexico" }
+      ]
+    }
+  ],
+
+
+  "Group D": [
+    {
+      "date": "22 de novembro 2022",
+      "time": "16:00",
+      "home_team": "Denmark",
+      "home_abbreviation": "DEN",
+      "home_flag": "🇩🇰",
+      "home_score": 0,
+      "away_score": 0,
+      "away_team": "Tunisia",
+      "away_abbreviation": "TUN",
+      "away_flag": "🇹🇳",
+      "stadium": "Education City Stadium, Al Rayyan",
+      "attendance": "42,925",
+      "referee": "César Arturo Ramos (Mexico)",
+      "goals": []
+    },
+    {
+      "date": "22 de novembro 2022",
+      "time": "22:00",
+      "home_team": "France",
+      "home_abbreviation": "FRA",
+      "home_flag": "🇫🇷",
+      "home_score": 4,
+      "away_score": 1,
+      "away_team": "Australia",
+      "away_abbreviation": "AUS",
+      "away_flag": "🇦🇺",
+      "stadium": "Al Janoub Stadium, Al Wakrah",
+      "attendance": "40,875",
+      "referee": "Victor Gomes (South Africa)",
+      "goals": [
+        { "player": "Goodwin", "minute": "9'", "team": "Australia" },
+        { "player": "Rabiot", "minute": "27'", "team": "France" },
+        { "player": "Giroud", "minute": "32'", "team": "France" },
+        { "player": "Mbappé", "minute": "68'", "team": "France" },
+        { "player": "Giroud", "minute": "71'", "team": "France" }
+      ]
+    },
+    {
+      "date": "26 de novembro 2022",
+      "time": "13:00",
+      "home_team": "Tunisia",
+      "home_abbreviation": "TUN",
+      "home_flag": "🇹🇳",
+      "home_score": 0,
+      "away_score": 1,
+      "away_team": "Australia",
+      "away_abbreviation": "AUS",
+      "away_flag": "🇦🇺",
+      "stadium": "Al Janoub Stadium, Al Wakrah",
+      "attendance": "41,823",
+      "referee": "Daniel Siebert (Germany)",
+      "goals": [
+        { "player": "Duke", "minute": "23'", "team": "Australia" }
+      ]
+    },
+    {
+      "date": "26 de novembro 2022",
+      "time": "19:00",
+      "home_team": "France",
+      "home_abbreviation": "FRA",
+      "home_flag": "🇫🇷",
+      "home_score": 2,
+      "away_score": 1,
+      "away_team": "Denmark",
+      "away_abbreviation": "DEN",
+      "away_flag": "🇩🇰",
+      "stadium": "Stadium 974, Doha",
+      "attendance": "42,860",
+      "referee": "Szymon Marciniak (Poland)",
+      "goals": [
+        { "player": "Mbappé", "minute": "61'", "team": "France" },
+        { "player": "A. Christensen", "minute": "68'", "team": "Denmark" },
+        { "player": "Mbappé", "minute": "86'", "team": "France" }
+      ]
+    },
+    {
+      "date": "30 de novembro 2022",
+      "time": "18:00",
+      "home_team": "Australia",
+      "home_abbreviation": "AUS",
+      "home_flag": "🇦🇺",
+      "home_score": 1,
+      "away_score": 0,
+      "away_team": "Denmark",
+      "away_abbreviation": "DEN",
+      "away_flag": "🇩🇰",
+      "stadium": "Al Janoub Stadium, Al Wakrah",
+      "attendance": "41,232",
+      "referee": "Mustapha Ghorbal (Algeria)",
+      "goals": [
+        { "player": "Leckie", "minute": "60'", "team": "Australia" }
+      ]
+    },
+    {
+      "date": "30 de novembro 2022",
+      "time": "18:00",
+      "home_team": "Tunisia",
+      "home_abbreviation": "TUN",
+      "home_flag": "🇹🇳",
+      "home_score": 1,
+      "away_score": 0,
+      "away_team": "France",
+      "away_abbreviation": "FRA",
+      "away_flag": "🇫🇷",
+      "stadium": "Education City Stadium, Al Rayyan",
+      "attendance": "43,627",
+      "referee": "Matthew Conger (New Zealand)",
+      "goals": [
+        { "player": "Khazri", "minute": "58'", "team": "Tunisia" }
+      ]
+    }
+  ],
+
+"Group E": [
+    {
+      "date": "23 de novembro 2022",
+      "time": "16:00",
+      "home_team": "Germany",
+      "home_abbreviation": "GER",
+      "home_flag": "🇩🇪",
+      "home_score": 1,
+      "away_score": 2,
+      "away_team": "Japan",
+      "away_abbreviation": "JPN",
+      "away_flag": "🇯🇵",
+      "stadium": "Khalifa International Stadium, Al Rayyan",
+      "attendance": "42,608",
+      "referee": "Iván Barton (El Salvador)",
+      "goals": [
+        { "player": "Gündogan", "minute": "33'", "type": "penalty", "team": "Germany" },
+        { "player": "Doan", "minute": "75'", "team": "Japan" },
+        { "player": "Asano", "minute": "83'", "team": "Japan" }
+      ]
+    },
+    {
+      "date": "23 de novembro 2022",
+      "time": "19:00",
+      "home_team": "Spain",
+      "home_abbreviation": "ESP",
+      "home_flag": "🇪🇸",
+      "home_score": 7,
+      "away_score": 0,
+      "away_team": "Costa Rica",
+      "away_abbreviation": "CRC",
+      "away_flag": "🇨🇷",
+      "stadium": "Al Thumama Stadium, Doha",
+      "attendance": "40,013",
+      "referee": "Mohammed Abdulla Hassan Mohamed (United Arab Emirates)",
+      "goals": [
+        { "player": "Olmo", "minute": "11'", "team": "Spain" },
+        { "player": "Asensio", "minute": "21'", "team": "Spain" },
+        { "player": "F. Torres", "minute": "31'", "type": "penalty", "team": "Spain" },
+        { "player": "F. Torres", "minute": "54'", "team": "Spain" },
+        { "player": "Gavi", "minute": "74'", "team": "Spain" },
+        { "player": "Soler", "minute": "90'", "team": "Spain" },
+        { "player": "Morata", "minute": "90+2'", "team": "Spain" }
+      ]
+    },
+    {
+      "date": "27 de novembro 2022",
+      "time": "13:00",
+      "home_team": "Japan",
+      "home_abbreviation": "JPN",
+      "home_flag": "🇯🇵",
+      "home_score": 0,
+      "away_score": 1,
+      "away_team": "Costa Rica",
+      "away_abbreviation": "CRC",
+      "away_flag": "🇨🇷",
+      "stadium": "Ahmad bin Ali Stadium, Al Rayyan",
+      "attendance": "41,479",
+      "referee": "Michael Oliver (England)",
+      "goals": [
+        { "player": "Fuller", "minute": "81'", "team": "Costa Rica" }
+      ]
+    },
+    {
+      "date": "27 de novembro 2022",
+      "time": "22:00",
+      "home_team": "Spain",
+      "home_abbreviation": "ESP",
+      "home_flag": "🇪🇸",
+      "home_score": 1,
+      "away_score": 1,
+      "away_team": "Germany",
+      "away_abbreviation": "GER",
+      "away_flag": "🇩🇪",
+      "stadium": "Al Bayt Stadium, Al Khor",
+      "attendance": "68,895",
+      "referee": "Danny Makkelie (Netherlands)",
+      "goals": [
+        { "player": "Morata", "minute": "62'", "team": "Spain" },
+        { "player": "Füllkrug", "minute": "83'", "team": "Germany" }
+      ]
+    },
+    {
+      "date": "1 de dezembro 2022",
+      "time": "22:00",
+      "home_team": "Japan",
+      "home_abbreviation": "JPN",
+      "home_flag": "🇯🇵",
+      "home_score": 2,
+      "away_score": 1,
+      "away_team": "Spain",
+      "away_abbreviation": "ESP",
+      "away_flag": "🇪🇸",
+      "stadium": "Khalifa International Stadium, Al Rayyan",
+      "attendance": "44,851",
+      "referee": "Victor Gomes (South Africa)",
+      "goals": [
+        { "player": "Morata", "minute": "11'", "team": "Spain" },
+        { "player": "Doan", "minute": "48'", "team": "Japan" },
+        { "player": "Tanaka", "minute": "51'", "team": "Japan" }
+      ]
+    },
+    {
+      "date": "1 de dezembro 2022",
+      "time": "22:00",
+      "home_team": "Costa Rica",
+      "home_abbreviation": "CRC",
+      "home_flag": "🇨🇷",
+      "home_score": 2,
+      "away_score": 4,
+      "away_team": "Germany",
+      "away_abbreviation": "GER",
+      "away_flag": "🇩🇪",
+      "stadium": "Al Bayt Stadium, Al Khor",
+      "attendance": "67,054",
+      "referee": "Stéphanie Frappart (France)",
+      "goals": [
+        { "player": "Tejeda", "minute": "58'", "team": "Costa Rica" },
+        { "player": "Vargas", "minute": "70'", "team": "Costa Rica" },
+        { "player": "Gnabry", "minute": "10'", "team": "Germany" },
+        { "player": "Havertz", "minute": "73'", "team": "Germany" },
+        { "player": "Havertz", "minute": "85'", "team": "Germany" },
+        { "player": "Füllkrug", "minute": "89'", "team": "Germany" }
+      ]
+    }
+  ],
+
+
+  "Group F": [
+    {
+      "date": "23 de novembro 2022",
+      "time": "13:00",
+      "home_team": "Morocco",
+      "home_abbreviation": "MAR",
+      "home_flag": "🇲🇦",
+      "home_score": 0,
+      "away_score": 0,
+      "away_team": "Croatia",
+      "away_abbreviation": "CRO",
+      "away_flag": "🇭🇷",
+      "stadium": "Al Bayt Stadium, Al Khor",
+      "attendance": "59,407",
+      "referee": "Fernando Rapallini (Argentina)",
+      "goals": []
+    },
+    {
+      "date": "23 de novembro 2022",
+      "time": "22:00",
+      "home_team": "Belgium",
+      "home_abbreviation": "BEL",
+      "home_flag": "🇧🇪",
+      "home_score": 1,
+      "away_score": 0,
+      "away_team": "Canada",
+      "away_abbreviation": "CAN",
+      "away_flag": "🇨🇦",
+      "stadium": "Ahmad bin Ali Stadium, Al Rayyan",
+      "attendance": "40,432",
+      "referee": "Janny Sikazwe (Zambia)",
+      "goals": [
+        { "player": "Batshuayi", "minute": "44'", "team": "Belgium" }
+      ]
+    },
+    {
+      "date": "27 de novembro 2022",
+      "time": "16:00",
+      "home_team": "Belgium",
+      "home_abbreviation": "BEL",
+      "home_flag": "🇧🇪",
+      "home_score": 0,
+      "away_score": 2,
+      "away_team": "Morocco",
+      "away_abbreviation": "MAR",
+      "away_flag": "🇲🇦",
+      "stadium": "Al Thumama Stadium, Doha",
+      "attendance": "43,738",
+      "referee": "César Arturo Ramos (Mexico)",
+      "goals": [
+        { "player": "Saïss", "minute": "73'", "team": "Morocco" },
+        { "player": "Aboukhlal", "minute": "90+2'", "team": "Morocco" }
+      ]
+    },
+    {
+      "date": "27 de novembro 2022",
+      "time": "19:00",
+      "home_team": "Croatia",
+      "home_abbreviation": "CRO",
+      "home_flag": "🇭🇷",
+      "home_score": 4,
+      "away_score": 1,
+      "away_team": "Canada",
+      "away_abbreviation": "CAN",
+      "away_flag": "🇨🇦",
+      "stadium": "Khalifa International Stadium, Al Rayyan",
+      "attendance": "44,374",
+      "referee": "Andrés Matonte (Uruguay)",
+      "goals": [
+        { "player": "Davies", "minute": "2'", "team": "Canada" },
+        { "player": "Kramarić", "minute": "36'", "team": "Croatia" },
+        { "player": "Livaja", "minute": "44'", "team": "Croatia" },
+        { "player": "Kramarić", "minute": "70'", "team": "Croatia" },
+        { "player": "Majer", "minute": "90+4'", "team": "Croatia" }
+      ]
+    },
+    {
+      "date": "1 de dezembro 2022",
+      "time": "18:00",
+      "home_team": "Croatia",
+      "home_abbreviation": "CRO",
+      "home_flag": "🇭🇷",
+      "home_score": 0,
+      "away_score": 0,
+      "away_team": "Belgium",
+      "away_abbreviation": "BEL",
+      "away_flag": "🇧🇪",
+      "stadium": "Ahmad bin Ali Stadium, Al Rayyan",
+      "attendance": "43,984",
+      "referee": "Anthony Taylor (England)",
+      "goals": []
+    },
+    {
+      "date": "1 de dezembro 2022",
+      "time": "18:00",
+      "home_team": "Canada",
+      "home_abbreviation": "CAN",
+      "home_flag": "🇨🇦",
+      "home_score": 1,
+      "away_score": 2,
+      "away_team": "Morocco",
+      "away_abbreviation": "MAR",
+      "away_flag": "🇲🇦",
+      "stadium": "Al Thumama Stadium, Doha",
+      "attendance": "43,102",
+      "referee": "Raphael Claus (Brazil)",
+      "goals": [
+        { "player": "Aguerd", "minute": "40'", "type": "own goal", "team": "Canada" },
+        { "player": "Ziyech", "minute": "4'", "team": "Morocco" },
+        { "player": "En-Nesyri", "minute": "23'", "team": "Morocco" }
+      ]
+    }
+  ],
+
+    "Group G": [
+      {
+        "date": "24 de novembro 2022",
+        "time": "13:00",
+        "home_team": "Switzerland",
+        "home_abbreviation": "SUI",
+        "home_flag": "🇨🇭",
+        "home_score": 1,
+        "away_score": 0,
+        "away_team": "Cameroon",
+        "away_abbreviation": "CMR",
+        "away_flag": "🇨🇲",
+        "stadium": "Al Janoub Stadium, Al Wakrah",
+        "attendance": "39,089",
+        "referee": "Facundo Tello (Argentina)",
+        "goals": [
+          { "player": "Embolo", "minute": "48'", "team": "Switzerland" }
+        ]
+      },
+      {
+        "date": "24 de novembro 2022",
+        "time": "16:00",
+        "home_team": "Brazil",
+        "home_abbreviation": "BRA",
+        "home_flag": "🇧🇷",
+        "home_score": 2,
+        "away_score": 0,
+        "away_team": "Serbia",
+        "away_abbreviation": "SRB",
+        "away_flag": "🇷🇸",
+        "stadium": "Lusail Iconic Stadium, Lusail",
+        "attendance": "88,103",
+        "referee": "Alireza Faghani (Iran)",
+        "goals": [
+          { "player": "Richarlison", "minute": "62'", "team": "Brazil" },
+          { "player": "Richarlison", "minute": "73'", "team": "Brazil" }
+        ]
+      },
+      {
+        "date": "28 de novembro 2022",
+        "time": "10:00",
+        "home_team": "Cameroon",
+        "home_abbreviation": "CMR",
+        "home_flag": "🇨🇲",
+        "home_score": 3,
+        "away_score": 3,
+        "away_team": "Serbia",
+        "away_abbreviation": "SRB",
+        "away_flag": "🇷🇸",
+        "stadium": "Al Janoub Stadium, Al Wakrah",
+        "attendance": "39,789",
+        "referee": "Mohammed Abdulla Hassan Mohamed (United Arab Emirates)",
+        "goals": [
+          { "player": "Castelletto", "minute": "29'", "team": "Cameroon" },
+          { "player": "Pavlovic", "minute": "45+1'", "team": "Serbia" },
+          { "player": "Sergej Milinkovic-Savic", "minute": "45+3'", "team": "Serbia" },
+          { "player": "Mitrovic", "minute": "53'", "team": "Serbia" },
+          { "player": "Aboubakar", "minute": "63'", "team": "Cameroon" },
+          { "player": "Choupo-Moting", "minute": "66'", "team": "Cameroon" }
+        ]
+      },
+      {
+        "date": "28 de novembro 2022",
+        "time": "13:00",
+        "home_team": "Brazil",
+        "home_abbreviation": "BRA",
+        "home_flag": "🇧🇷",
+        "home_score": 1,
+        "away_score": 0,
+        "away_team": "Switzerland",
+        "away_abbreviation": "SUI",
+        "away_flag": "🇨🇭",
+        "stadium": "Stadium 974, Doha",
+        "attendance": "43,649",
+        "referee": "Ivan Barton (El Salvador)",
+        "goals": [
+          { "player": "Casemiro", "minute": "83'", "team": "Brazil" }
+        ]
+      },
+      {
+        "date": "2 de dezembro 2022",
+        "time": "22:00",
+        "home_team": "Serbia",
+        "home_abbreviation": "SRB",
+        "home_flag": "🇷🇸",
+        "home_score": 2,
+        "away_score": 3,
+        "away_team": "Switzerland",
+        "away_abbreviation": "SUI",
+        "away_flag": "🇨🇭",
+        "stadium": "Stadium 974, Doha",
+        "attendance": "41,258",
+        "referee": "Fernando Rapallini (Argentina)",
+        "goals": [
+          { "player": "Mitrovic", "minute": "26'", "team": "Serbia" },
+          { "player": "Vlahovic", "minute": "35'", "team": "Serbia" },
+          { "player": "Shaqiri", "minute": "20'", "team": "Switzerland" },
+          { "player": "Embolo", "minute": "44'", "team": "Switzerland" },
+          { "player": "Freuler", "minute": "48'", "team": "Switzerland" }
+        ]
+      },
+      {
+        "date": "2 de dezembro 2022",
+        "time": "22:00",
+        "home_team": "Cameroon",
+        "home_abbreviation": "CMR",
+        "home_flag": "🇨🇲",
+        "home_score": 1,
+        "away_score": 0,
+        "away_team": "Brazil",
+        "away_abbreviation": "BRA",
+        "away_flag": "🇧🇷",
+        "stadium": "Lusail Iconic Stadium, Lusail",
+        "attendance": "85,986",
+        "referee": "Ismail Elfath (USA)",
+        "goals": [
+          { "player": "Aboubakar", "minute": "90+2'", "team": "Cameroon" }
+        ]
+      }
+    ],
+
+    "Group H": [
+      {
+        "date": "24 de novembro 2022",
+        "time": "16:00",
+        "home_team": "Uruguay",
+        "home_abbreviation": "URU",
+        "home_flag": "🇺🇾",
+        "home_score": 0,
+        "away_score": 0,
+        "away_team": "South Korea",
+        "away_abbreviation": "KOR",
+        "away_flag": "🇰🇷",
+        "stadium": "Education City Stadium, Al Rayyan",
+        "attendance": "41,663",
+        "referee": "Clément Turpin (France)",
+        "goals": []
+      },
+      {
+        "date": "24 de novembro 2022",
+        "time": "19:00",
+        "home_team": "Portugal",
+        "home_abbreviation": "POR",
+        "home_flag": "🇵🇹",
+        "home_score": 3,
+        "away_score": 2,
+        "away_team": "Ghana",
+        "away_abbreviation": "GHA",
+        "away_flag": "🇬🇭",
+        "stadium": "Stadium 974, Doha",
+        "attendance": "42,662",
+        "referee": "Ismail Elfath (United States)",
+        "goals": [
+          { "player": "Cristiano Ronaldo", "minute": "65'", "team": "Portugal" },
+          { "player": "André Ayew", "minute": "73'", "team": "Ghana" },
+          { "player": "João Félix", "minute": "78'", "team": "Portugal" },
+          { "player": "Rafael Leão", "minute": "80'", "team": "Portugal" },
+          { "player": "Osman Bukari", "minute": "89'", "team": "Ghana" }
+        ]
+      },
+      {
+        "date": "28 de novembro 2022",
+        "time": "13:00",
+        "home_team": "South Korea",
+        "home_abbreviation": "KOR",
+        "home_flag": "🇰🇷",
+        "home_score": 2,
+        "away_score": 3,
+        "away_team": "Ghana",
+        "away_abbreviation": "GHA",
+        "away_flag": "🇬🇭",
+        "stadium": "Education City Stadium, Al Rayyan",
+        "attendance": "43,983",
+        "referee": "Anthony Taylor (England)",
+        "goals": [
+          { "player": "Mohammed Salisu", "minute": "24'", "team": "Ghana" },
+          { "player": "Mohammed Kudus", "minute": "34'", "team": "Ghana" },
+          { "player": "Cho Gue-sung", "minute": "58'", "team": "South Korea" },
+          { "player": "Cho Gue-sung", "minute": "61'", "team": "South Korea" },
+          { "player": "Mohammed Kudus", "minute": "68'", "team": "Ghana" }
+        ]
+      },
+      {
+        "date": "28 de novembro 2022",
+        "time": "22:00",
+        "home_team": "Portugal",
+        "home_abbreviation": "POR",
+        "home_flag": "🇵🇹",
+        "home_score": 2,
+        "away_score": 0,
+        "away_team": "Uruguay",
+        "away_abbreviation": "URU",
+        "away_flag": "🇺🇾",
+        "stadium": "Lusail Stadium, Lusail",
+        "attendance": "88,668",
+        "referee": "Alireza Faghani (Iran)",
+        "goals": [
+          { "player": "Bruno Fernandes", "minute": "54'", "team": "Portugal" },
+          { "player": "Bruno Fernandes", "minute": "90+3'", "team": "Portugal", "type": "penalty" }
+        ]
+      },
+      {
+        "date": "2 de dezembro 2022",
+        "time": "18:00",
+        "home_team": "South Korea",
+        "home_abbreviation": "KOR",
+        "home_flag": "🇰🇷",
+        "home_score": 2,
+        "away_score": 1,
+        "away_team": "Portugal",
+        "away_abbreviation": "POR",
+        "away_flag": "🇵🇹",
+        "stadium": "Education City Stadium, Al Rayyan",
+        "attendance": "44,097",
+        "referee": "Facundo Tello (Argentina)",
+        "goals": [
+          { "player": "Ricardo Horta", "minute": "5'", "team": "Portugal" },
+          { "player": "Kim Young-gwon", "minute": "27'", "team": "South Korea" },
+          { "player": "Hwang Hee-chan", "minute": "90+1'", "team": "South Korea" }
+        ]
+      },
+      {
+        "date": "2 de dezembro 2022",
+        "time": "18:00",
+        "home_team": "Ghana",
+        "home_abbreviation": "GHA",
+        "home_flag": "🇬🇭",
+        "home_score": 0,
+        "away_score": 2,
+        "away_team": "Uruguay",
+        "away_abbreviation": "URU",
+        "away_flag": "🇺🇾",
+        "stadium": "Al Janoub Stadium, Al Wakrah",
+        "attendance": "43,443",
+        "referee": "Daniel Siebert (Germany)",
+        "goals": [
+          { "player": "Giorgian de Arrascaeta", "minute": "26'", "team": "Uruguay" },
+          { "player": "Giorgian de Arrascaeta", "minute": "32'", "team": "Uruguay" }
+        ]
+      }
+    ]
+  }
+  
